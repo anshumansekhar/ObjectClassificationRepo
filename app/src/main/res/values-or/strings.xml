@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObjectClassifier</string>
+    <string name="info">Not Correct?\nSend Feedback</string>
+    <string-array name="labels" >
+        <item>pomegranate</item>
+        <item>backpack</item>
+        <item>bell pepper</item>
+        <item>board</item>
+        <item>broccoli</item>
+        <item>corn</item>
+        <item>daisy</item>
+        <item>dandelion</item>
+        <item>desk</item>
+        <item>flowervase</item>
+        <item>guava</item>
+        <item>keys</item>
+        <item>mango</item>
+        <item>marigold</item>
+        <item>mobilephones</item>
+        <item>onion</item>
+        <item>papaya</item>
+        <item>pen</item>
+        <item>pineapple</item>
+        <item>podium</item>
+        <item>potato</item>
+        <item>pumpkin</item>
+        <item>purse</item>
+        <item>roses</item>
+        <item>spectacles</item>
+        <item>sunflowers</item>
+        <item>tulips</item>
+        <item>wallet</item>
+    </string-array>
+</resources>
